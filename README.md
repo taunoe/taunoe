@@ -1,3 +1,3 @@
-# taunoe
+# Tere
 
-Tere
+Mina olen Tauno
