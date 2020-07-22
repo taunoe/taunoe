@@ -1,3 +1,3 @@
-# Tere
+# Hi
 
-Mina olen Tauno
+I am Tauno
