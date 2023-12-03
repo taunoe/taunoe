@@ -2,9 +2,9 @@
 
 I am Tauno.
 
-This is my [Serial Plotter](https://github.com/taunoe/tauno-serial-plotter):
+[Tauno Monitor](https://github.com/taunoe/tauno-monitor)
 
-![Tauno Serial Plotter](https://raw.githubusercontent.com/taunoe/tauno-serial-plotter/master/img/screenshot.png)
+[Tauno Serial Plotter](https://github.com/taunoe/tauno-serial-plotter)
 
 My website ![taunoerik.art](https://taunoerik.art/).
 
