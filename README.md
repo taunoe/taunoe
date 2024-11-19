@@ -6,4 +6,4 @@ I am Tauno.
 
 [Tauno Serial Plotter](https://github.com/taunoe/tauno-serial-plotter)
 
-My website ![taunoerik.art](https://taunoerik.art/).
+My website [taunoerik.art](https://taunoerik.art/).
